@@ -1,3 +1,6 @@
+/*Authors: Abdul-Hakim Adam and
+           Kafui Gle
+*/
 /* Arduino Calculator, created using 16x2 LCD Display, Arduino Uno,
 and a 4x4 keypad developed using the concept of button matrix*/
 
